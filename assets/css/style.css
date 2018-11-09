@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(231, 229, 229);
+}
+
+#main { 
+    margin: 5px;
+    width: 100%;
+
+}
+
+#button-area {
+    height: auto;
+    margin: 10px;
+}
+
+button {
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: lightsteelblue;
+    box-shadow: 1px 1px gray;
+}
+
+#gif-area {
+    height: auto;
+
+}
+
+form {
+    margin-top: 40px;
+    margin-right: 50px;
+}
+
+#user-input {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
+
+#add-cartoon {
+    background-color: lightsteelblue;
+    color: white;
+    box-shadow: 1px 1px gray;
+    border-radius: 10px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 18px;
+    color: darkgray;
+    text-shadow: 1px 1px black;
+    letter-spacing: 1px;
+}
+
+#gif {
+    float: left;
+    margin:5px;
+}
